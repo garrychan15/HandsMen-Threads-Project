@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>HandsMen_Logo</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Custom app for Elevating the Art of Sophistication in Men&apos;s Fashion</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>HandsMen Threads</label>
+    <navType>Standard</navType>
+    <tabs>HandsMen_Customer__c</tabs>
+    <tabs>HandsMen_Order__c</tabs>
+    <tabs>Inventory__c</tabs>
+    <tabs>HandsMen_Product__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>Marketing_Campaign__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>HandsMen_Threads_UtilityBar</utilityBar>
+</CustomApplication>
